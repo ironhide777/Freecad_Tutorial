@@ -18,4 +18,4 @@ Inspired by that idea, a very simplified FreeCAD workbook is now being created s
 If it can help one determined learner, it can help many more.
 Anyone interested in learning, contributing, or supporting this effort is warmly welcome.
 
-"To Contribute use Libra office "
+"To Contribute use Libre office "
